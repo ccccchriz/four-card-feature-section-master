@@ -16,5 +16,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io]()
-- Live Site URL: [netlify.app]()
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub?share=true)
+- Live Site URL: [netlify.app](https://subtle-melomakarona-d6fa86.netlify.app)
